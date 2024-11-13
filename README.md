@@ -60,12 +60,12 @@ accuracy = correct_predictions / total_examples
 print(f'Acurácia: {accuracy * 100:.2f}%')
 ```
 
-##Resultados
+## Resultados
 Após a aplicação das regras ao conjunto de dados, podemos calcular quantos exemplos foram classificados corretamente:
 
 Número de exemplos no conjunto de dados: 1728
 Número de acertos: 1073
 Acurácia: 62.09%
 
-Conclusão
+## Conclusão
 Neste exercício, construímos um conjunto de regras simples para classificar exemplos da base de dados "Car". Embora as regras possam não cobrir todas as nuances dos dados, elas fornecem uma abordagem inicial para classificação. O objetivo foi entender como regras podem ser usadas e avaliar a eficácia delas.
