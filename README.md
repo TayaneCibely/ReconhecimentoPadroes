@@ -1,6 +1,6 @@
 ### Etapas para Construção do Conjunto de Regras
 
-##Carregar e Entender os Dados Primeiro, precisamos carregar os dados e entender a estrutura das colunas. A base de dados "car.data" contém 7 
+## Carregar e Entender os Dados Primeiro, precisamos carregar os dados e entender a estrutura das colunas. A base de dados "car.data" contém 7 
 colunas:
 buying
 maint
